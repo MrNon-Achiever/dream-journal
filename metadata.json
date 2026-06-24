@@ -1,0 +1,8 @@
+{
+  "name": "Dream Journal",
+  "description": "A multi-modal dream journal enabling voice recordings, AI transcibing, surrealist theme image generation, in-depth psychological archetype analysis, and interactive symbol analysis chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
